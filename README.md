@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @urechd
+- 👀 I’m a backend developer interested in Game Development
